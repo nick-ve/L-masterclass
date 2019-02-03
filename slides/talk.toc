@@ -1,7 +1,7 @@
 \contentsline {section}{Het zichtbare heelal\vspace *{-10mm}}{1}
 \contentsline {section}{Het onzichtbare heelal\vspace *{-10mm}}{3}
-\contentsline {section}{Jacht op kosmische neutrinos\vspace *{-10mm}}{12}
-\contentsline {section}{De IceCube Neutrino Telescoop\vspace *{-10mm}}{13}
-\contentsline {section}{Neutrinos van kosmische gammaflitsen\vspace *{-10mm}}{23}
-\contentsline {section}{The Muppets on Ice\vspace *{-10mm}}{24}
-\contentsline {section}{Vooruitzichten\vspace *{-10mm}}{30}
+\contentsline {section}{Jacht op kosmische neutrino's\vspace *{-10mm}}{13}
+\contentsline {section}{Neutrino's van kosmische gammaflitsen\vspace *{-10mm}}{24}
+\contentsline {section}{The Muppets on Ice\vspace *{-10mm}}{25}
+\contentsline {section}{De Neutrino-Gamma connectie\vspace *{-10mm}}{31}
+\contentsline {section}{Samenvatting en Vooruitzichten\vspace *{-10mm}}{36}
